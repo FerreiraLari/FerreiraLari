@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/FerreiraLari/FerreiraLari/master/cvgit.jpeg" width=50% height=50%>
 
-<div style="width: 100%; text-align: center;"><img src="https://raw.githubusercontent.com/FerreiraLari/FerreiraLari/master/cvgit.jpeg" width=50% height=50%></div>
+<img align="center" width="100" height="100" src="https://raw.githubusercontent.com/FerreiraLari/FerreiraLari/master/cvgit.jpeg">
 
 Oi eu sou a Larissa, possuo experiência em diferentes ramos da Estatística, desde marketing até projetos de pesquisa, me considero uma profissional eclética, sempre disposta a conhecer novas áreas, me adaptar a novas rotinas e aprender ao máximo com minhas experiências. 
 

@@ -1,4 +1,4 @@
-![tfdhbs](/home/larissa/cvgit.jpeg)
+![tfdhbs](https://raw.githubusercontent.com/FerreiraLari/FerreiraLari/master/cvgit.jpeg)
 <img src=”/home/larissa/imgmark.png”>
 
 Oi eu sou a Larissa, possuo experiência em diferentes ramos da Estatística, desde marketing até projetos de pesquisa, me considero uma profissional eclética, sempre disposta a conhecer novas áreas, me adaptar a novas rotinas e aprender ao máximo com minhas experiências. 

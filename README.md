@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/FerreiraLari/FerreiraLari/master/cvgit.jpeg" width=50% height=50%>
+<img align ="center" src="https://raw.githubusercontent.com/FerreiraLari/FerreiraLari/master/cvgit.jpeg" width=50% height=50%>
 
 <img align="center" width="200" height="100" src="https://raw.githubusercontent.com/FerreiraLari/FerreiraLari/master/cvgit.jpeg">
 
